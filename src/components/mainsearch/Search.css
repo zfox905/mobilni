@@ -1,0 +1,11 @@
+.main {
+    
+    width: 500px;
+    align-content: flex-start; 
+    border-color: black;
+    background-color: #f0f8ff;
+    border-radius: 20px;
+    padding: 0px 10px;
+ 
+}
+

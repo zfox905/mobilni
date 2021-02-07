@@ -1,0 +1,29 @@
+.k-textbox {
+    width: 500px !important;
+    padding: 10px !important;
+    
+    
+    
+    
+
+}
+
+.title {
+    color: #000000;
+    width: auto;
+    height: auto;
+}
+
+.appbar {
+    background-color: #93a9e5;
+    height: auto;
+    
+}
+
+.k-button {
+    padding-left: 10px;
+    background-color: #89c5f7;
+    border-radius: 12px;
+}
+
+
